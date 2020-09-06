@@ -1,0 +1,92 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+}{%
+Chen%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+chen_2020}
+\APACinsertmetastar {%
+chen_2020}%
+\begin{APACrefauthors}%
+Chen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{Aug}{}.
+\newblock
+\APACrefbtitle {Earnings Per Share (EPS).} {Earnings per share (eps).}
+\newblock
+\APACaddressPublisher{}{Investopedia}.
+\newblock
+\begin{APACrefURL} \url{https://www.investopedia.com/terms/e/eps.asp}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Earnings Release FY20 Q2}}{%
+\APACcitebtitle {Earnings Release FY20 Q2}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+microsoft}
+\APACinsertmetastar {%
+microsoft}%
+\APACrefbtitle {Earnings Release FY20 Q2.} {Earnings release fy20 q2.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.microsoft.com/en-us/Investor/earnings/FY-2020-Q2/performance}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Microsoft Corporation (MSFT) Stock Price, Quote, History &
+  News}}{%
+\APACcitebtitle {Microsoft Corporation (MSFT) Stock Price, Quote, History &
+  News}}{%
+{\protect \APACyear {2020}}%
+}]{%
+yahoo!finance_2020}
+\APACinsertmetastar {%
+yahoo!finance_2020}%
+\APACrefbtitle {Microsoft Corporation (MSFT) Stock Price, Quote, History &
+  News.} {Microsoft corporation (msft) stock price, quote, history & news.}
+\newblock
+\APACrefYearMonthDay{2020}{Sep}{}.
+\newblock
+\APACaddressPublisher{}{Yahoo!}
+\newblock
+\begin{APACrefURL} \url{https://finance.yahoo.com/quote/MSFT/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Wikipedia contributors}%
+}{%
+{Wikipedia contributors}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+wiki:xxx}
+\APACinsertmetastar {%
+wiki:xxx}%
+\begin{APACrefauthors}%
+{Wikipedia contributors}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Microsoft --- {Wikipedia}{,} The Free Encyclopedia.} {Microsoft
+  --- {Wikipedia}{,} the free encyclopedia.}
+\newblock
+\begin{APACrefURL}
+  \url{https://en.wikipedia.org/w/index.php?title=Microsoft&oldid=976378040}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{[Online; accessed 5-September-2020]}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
