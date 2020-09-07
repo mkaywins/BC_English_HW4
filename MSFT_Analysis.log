@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.16)  6 SEP 2020 13:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.16)  7 SEP 2020 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -135,19 +135,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--25
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <MSFT_YahooFinanceChart.png, id=13, 1194.4625pt x 501.875pt>
 File: MSFT_YahooFinanceChart.png Graphic file (type png)
 <use MSFT_YahooFinanceChart.png>
-Package pdftex.def Info: MSFT_YahooFinanceChart.png  used on input line 38.
+Package pdftex.def Info: MSFT_YahooFinanceChart.png  used on input line 39.
 (pdftex.def)             Requested size: 418.06813pt x 175.65887pt.
 
 ! Misplaced alignment tab character &.
 <argument> ...(MSFT) Stock Price, Quote, History &
                                                    News\/}
-l.40 	\cite{yahoo!finance_2020}
+l.41 	\cite{yahoo!finance_2020}
                                
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -159,7 +164,7 @@ might try typing `S' now just to see what is salvageable.
 [2
 
  <./MSFT_YahooFinanceChart.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
 
  []
 
@@ -169,25 +174,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--71
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
+
+ []
+
+[3]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 81.
@@ -197,16 +208,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 82.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
 
-[3] (./MSFT_Analysis.bbl
+[4] (./MSFT_Analysis.bbl
 Underfull \hbox (badness 1931) in paragraph at lines 14--27
 []\OT1/cmr/m/n/10 Chen, J.  (2020, Aug).  \OT1/cmr/m/it/10 Earn-ings per share 
 (eps).  \OT1/cmr/m/n/10 In-vesto-pe-dia.  Re-trieved from
@@ -248,7 +259,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [4] (./MSFT_Analysis.aux) ) 
+) [5] (./MSFT_Analysis.aux) ) 
 Here is how much of TeX's memory you used:
  1664 strings out of 481239
  23701 string characters out of 5920377
@@ -256,7 +267,7 @@ Here is how much of TeX's memory you used:
  16942 multiletter control sequences out of 15000+600000
  538101 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,25p,1333b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,25p,1675b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-supe
 r-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
@@ -269,10 +280,10 @@ ts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000
 .pfb>
-Output written on MSFT_Analysis.pdf (4 pages, 206342 bytes).
+Output written on MSFT_Analysis.pdf (5 pages, 212862 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
